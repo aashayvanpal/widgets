@@ -29,6 +29,6 @@ export default function App() {
         <Search /> */}
 
         <Translate />
-
+        
     </div>
 }
